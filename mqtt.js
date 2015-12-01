@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 'use strict';
 /*
  * Copyright (c) 2011 Adam Rudd.

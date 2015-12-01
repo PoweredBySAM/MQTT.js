@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var mqtt      = require('../')
   , path      = require('path')
   , fs        = require('fs')
